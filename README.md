@@ -42,4 +42,4 @@ MCA Student | Aspiring Data Analyst
 
 GitHub: [View GitHub Profile](https://github.com/shrutikudegave)
 
-LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/shruti-kudegave)
+LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/shruti-kudegave-783b60415/)
