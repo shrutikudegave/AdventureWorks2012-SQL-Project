@@ -35,6 +35,11 @@ This project focuses on analysing business data using SQL Server and the Adventu
 - Strengthened problem-solving and database querying skills.
 
 ## 7. Author
+
 **Shruti Kudegave**
 
 MCA Student | Aspiring Data Analyst
+
+GitHub: [View GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+
+LinkedIn: [Connect on LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
