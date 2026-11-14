@@ -40,6 +40,6 @@ This project focuses on analysing business data using SQL Server and the Adventu
 
 MCA Student | Aspiring Data Analyst
 
-GitHub: [View GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+GitHub: [View GitHub Profile](https://github.com/shrutikudegave)
 
-LinkedIn: [Connect on LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/shruti-kudegave)
