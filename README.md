@@ -28,9 +28,11 @@ This project focuses on analysing business data using SQL Server and the Adventu
 - **SQL_Project_Screenshots.pdf** – Contains screenshots of SQL queries and their outputs.
 
 ## 6. Learning Outcomes
-- Improved practical understanding of SQL.
-- Gained experience working with relational databases.
-- Practised retrieving, filtering, grouping and analysing business data.
+- Developed practical skills in writing and executing SQL queries.
+- Gained hands-on experience working with relational databases.
+- Improved understanding of data retrieval, filtering, grouping and sorting.
+- Practised analysing customer and sales data using SQL.
+- Strengthened problem-solving and database querying skills.
 
 ## 7. Author
 **Shruti Kudegave**
